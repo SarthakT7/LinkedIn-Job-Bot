@@ -1,0 +1,7 @@
+{
+    "Email" : "Your Email Here",
+    "Password": "Your Password Here",
+    "Job Title" : "Your title here(Eg.Software Engineer)",
+    "Job Location" : "Your location here(Eg. India)",
+    "Driver Path" : "Your driver path(C:\\SeleniumDriver\\chromedriver.exe)"
+}
